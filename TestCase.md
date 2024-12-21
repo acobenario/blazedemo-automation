@@ -22,8 +22,11 @@ This document contains the detailed manual documentation for BlazeDemo.
 3. Step 3: Continue with more steps as needed.
 
 **Expected Result:** Clearly defined expected outcome for each step.
+
 **Actual Result:** The actual result after execution.
+
 **Status:** Pass / Fail / Not Executed
+
 **Remarks:** Additional notes or observations
 
 ## Test Scenarios
