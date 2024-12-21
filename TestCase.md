@@ -20,6 +20,7 @@ This document contains the detailed manual documentation for BlazeDemo.
 1. Step 1: Description of the first action.
 2. Step 2: Description of the next action.
 3. Step 3: Continue with more steps as needed.
+
 **Expected Result:** Clearly defined expected outcome for each step.
 **Actual Result:** The actual result after execution.
 **Status:** Pass / Fail / Not Executed
