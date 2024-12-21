@@ -65,7 +65,6 @@ Test scenarios define high-level testing objectives and conditions for BlazeDemo
 **Test Type:** Functional
 **Preconditions:** User has a web browser installed.
 **Test Data:** [N/A]
-
 **Steps to Execute:**
 1. Open the web browser.
 2. Navigate to [BlazeDemo Home Page](http://blazedemo.com/).
