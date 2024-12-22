@@ -53,7 +53,7 @@ blazedemo-automation
 ```
 
 ## Why I Built This  
-I’m passionate about QA and automation and wanted to create a project that reflects what I’ve learned so far. This project allows me to practice real-world skills and gain hands-on experience with testing tools and frameworks.  
+I’m passionate about QA and wanted to create a project that reflects my skillset as a QA automation engineer. 
 
 --
 
