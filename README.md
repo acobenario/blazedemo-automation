@@ -7,7 +7,7 @@ Welcome to my QA Automation project. I’m a QA Automation Engineer with 3 years
 
 ## What This Project Does  
 
-- **Automates Web Testing**: Uses Selenium WebDriver to run automated test cases for a sample web application.  
+- **Automates Web Testing**: Uses Selenium WebDriver to run automated test cases for a travel agency demo web application called BlazeDemo.  
 - **Manual Testing Docs**: Includes test plans and test cases to show how I approach manual testing.  
 - **CI/CD Integration**: Set up Jenkins for automated test execution (still learning this!).  
 - **Reports & Logs**: Generates test results and logs to track what’s working and what’s not.  
@@ -17,7 +17,8 @@ Welcome to my QA Automation project. I’m a QA Automation Engineer with 3 years
 - **Programming Language**: Java  
 - **Build Tool**: Maven  
 - **Test Framework**: TestNG (might try JUnit later)  
-- **Automation Framework**: Selenium WebDriver  
+- **Automation Framework**: Selenium WebDriver
+- **Test Management & Bug Tracking Tool**: Jira
 - **CI Tool**: Jenkins (still setting this up)  
 - **IDE**: Visual Studio Code
 
