@@ -3,7 +3,7 @@
 
 Hi there!👋 
 
-Welcome to my QA Automation project. I’m a QA Automation Engineer with 3 years of experience. I created this project to sharpen and demonstrate my skills in QA by integrating manual and automated testing approaches for the BlazeDemo web application.
+Welcome to my QA Automation project. I’m a QA Automation Engineer with 3 years of experience using tools such as Python, Robot Framework and Selenium. I created this project to sharpen and demonstrate my skills in QA by integrating manual and automated testing approaches for the BlazeDemo web application.
 
 ## What This Project Does  
 
